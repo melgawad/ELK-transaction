@@ -109,12 +109,12 @@ sudo systemctl start filebeat.service
 ```
 ## Some Screanshots 
 - In kibana can make sure from pipeline filtration
-![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-37-27.png)
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Development/main/screenshots/Screenshot%20from%202022-10-02%2011-37-27.png)
 ---
 - In elasticearch can make sure from configrytions
-![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-38-56.png)
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Development/main/screenshots/Screenshot%20from%202022-10-02%2011-38-56.png)
 ---
 - After Logstash config file to create pipeline can make sure from the service and pipeline is started
-![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-40-14.png)
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Development/main/screenshots/Screenshot%20from%202022-10-02%2011-40-14.png)
 ---
 ## Finally, I wish you good luck
