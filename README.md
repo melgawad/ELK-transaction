@@ -107,3 +107,14 @@ sudo rpm -vi filebeat-8.4.2-x86_64.rpm
 sudo systemctl enable filebeat.service
 sudo systemctl start filebeat.service
 ```
+## Some Screanshots 
+- In kibana can make sure from pipeline filtration
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-37-27.png)
+---
+- In elasticearch can make sure from configrytions
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-38-56.png)
+---
+- After Logstash config file to create pipeline can make sure from the service and pipeline is started
+![alt text](https://raw.githubusercontent.com/melgawad/ELK-Task/main/Screenshot%20from%202022-10-02%2011-40-14.png)
+---
+## Finally, I wish you good luck
